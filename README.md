@@ -1,68 +1,77 @@
-# 🐍 Udemy Python Mastery
+# 100 Days of Python - Udemy Course Progress 🚀
 
-Welcome to my Python learning repository! This repo contains all of my progress, notes, exercises, and projects from the Udemy course: **"100 Days of Code: The Complete Python Pro Bootcamp"** by Dr. Angela Yu.
+Welcome to my Python learning repository! 👋  
+This repo contains my notes, exercises, and projects from the Udemy course: **"100 Days of Code: The Complete Python Pro Bootcamp" by Dr. Angela Yu**.
 
-## 📚 Course Overview
+---
 
-This course is one of the most comprehensive Python bootcamps on Udemy, covering everything from the basics to advanced projects using:
+## 🔹 About This Repository
+- Organized by **day/section** for easy navigation.
+- Contains practice exercises, small projects, and assignments.
+- Tracks my **progress and growth** as I master Python.
 
-- Python 3
-- Object-Oriented Programming
-- Web development (Flask)
-- Data science and automation
-- GUI apps
-- Game development with Turtle & more
+---
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
 Udemy-Python/
-├── Day01/
-│ └── beginner-tasks.py
-├── Day02/
-│ └── tip-calculator.py
-├── Day03/
-│ └── treasure-island-game.py
+├─ Day 1 - Basics/
+├─ Day 2 - Variables & Data Types/
+├─ Day 3 - Control Flow/
 ...
+├─ Projects/
+│ ├─ Calculator/
+│ ├─ Blackjack Game/
+│ └─ Ninja Gold Game/
 
-markdown
+yaml
 Copy
 Edit
 
-Each folder represents a course day, containing that day's exercises, mini-projects, and notes.
+- Each folder contains Python files for exercises and projects.
+- Project folders include **README files with instructions and descriptions** (to be added).
 
-## 🚀 Highlights
+---
 
-✅ 100 days of code challenge  
-✅ Hands-on projects and real-world applications  
-✅ Gradual learning curve — beginner to advanced  
-✅ Covers APIs, GUIs, Web, Games, and more!
+## 💻 Key Projects
 
-## 🛠️ Technologies Used
+| Project | Description | Skills Learned |
+|---------|-------------|----------------|
+| Calculator | A Python calculator that supports basic arithmetic | Functions, Loops, User Input |
+| Blackjack Game | Terminal-based Blackjack game | Random, Loops, Conditional Logic |
+| Ninja Gold Game | Mini-game simulating earning gold | Flask, Sessions, Web Forms |
 
-- Python 3.x
-- PyCharm / VS Code
-- Flask
-- Tkinter
-- Turtle
-- APIs (e.g., OpenWeather, ISS location)
-- Pandas, NumPy, Matplotlib (in later stages)
+---
 
+## 🌱 Skills & Topics Covered
 
-🎯 Goals
-Strengthen Python fundamentals
+- **Python Fundamentals:** Variables, Data Types, Strings, Lists, Dictionaries  
+- **Control Flow & Loops:** `if`, `else`, `for`, `while`  
+- **Functions & Modules**  
+- **Object-Oriented Programming (OOP)**  
+- **File Handling & CSV**  
+- **Python Libraries:** `random`, `math`, `datetime`, `os`  
+- **Web Development with Flask**  
+- **SQL Basics** (via Python integration)  
+- **Project-based learning and problem solving**
 
-Build a daily coding habit
+---
 
-Complete all 100 days of Python
+## 📈 Learning Goals
 
-Create a solid Python project portfolio
+- Master Python and OOP concepts  
+- Build full projects independently  
+- Strengthen problem-solving and algorithmic thinking  
+- Transition Python skills to web and full-stack development  
 
-📌 Author
-Jacob Qumsiyeh
-GitHub Profile
-Udemy Student | Future Full-Stack Developer
+---
 
-📝 License
-This project is for personal educational purposes. Original course copyright:
-Dr. Angela Yu — London App Brewery.
-Please respect the Udemy Terms of Service.
+## 📫 Connect with Me
+
+- **Email:** qumsiyeh37@gmail.com  
+- **LinkedIn:** [Yacoub Qumseya](https://www.linkedin.com/in/yacoub-qumseya-9227a2132/)  
+
+---
+
+⭐ Feel free to explore my projects and exercises!  
+I’m always looking to **improve and collaborate**, so feedback is welcome.
